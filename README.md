@@ -1,6 +1,6 @@
 # send_money
 
-A new Flutter project.
+A new Flutter project that displays a styled card which includes a "Send Money" button that prints to console when clicked.
 
 ## Getting Started
 
